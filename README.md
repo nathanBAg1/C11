@@ -1,2 +1,2 @@
 # C11 - Ciência de Dados Com Python
-Repositório da Matéria Ciência de Dados com Python
+Repositório Para os Exercícios da Matéria Ciência de Dados com Python
